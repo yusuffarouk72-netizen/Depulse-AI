@@ -1,0 +1,6 @@
+{
+  "name": "DealPulse AI - Sales Coaching & Call Intelligence",
+  "description": "AI-powered sales coaching intelligence platform with audio call transcription, speaker diarization, continuous sentiment and engagement graphs, and tactical coaching cards.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
